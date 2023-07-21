@@ -1,0 +1,83 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-shadow: 2px 2px 8px black;
+  background-image: url(https://1.bp.blogspot.com/-EAFM7V4xxJ8/Xu5C0ia4dJI/AAAAAAAAUwQ/iyJWTXDoPjQmXS3rkeNJ61YIeCoZBw6ZgCK4BGAsYHg/w1600/rick-and-morty-black-wallpaper.png);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: rgb(0, 0, 0);
+}
+
+body h2 {
+  color: rgb(255, 255, 0);
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+  text-shadow: 1px 1px 3px black;
+  font-family: 'Press Start 2P', cursive;
+  ;
+}
+
+body h2:hover {
+  text-shadow: 1px 1px 20px fuchsia;
+
+
+}
+
+table {
+  width: 100%;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border: 2px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 80%;
+}
+
+table thead {
+  background-color: #bc2dff;
+  color: rgb(243, 243, 243);
+}
+
+table thead td {
+  padding: 10px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+}
+
+table tbody tr{
+  color: white;
+  background-color: #6d0083af;
+ 
+}
+table tbody tr:hover{
+  background-color: #00000070;
+  text-shadow: 1px 1px 20px fuchsia;
+ 
+}
+
+
+table tbody td {
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  padding: 5px;
+}
+
+table tbody img {
+  width: 100px;
+  height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
