@@ -58,18 +58,18 @@ table tbody tr:hover{
   text-shadow: 1px 1px 20px fuchsia;
  
 }
-
-
 table tbody td {
   border-color: rgb(0, 0, 0);
   border-style: solid;
-  padding: 5px;
+  padding: 10px;
 }
 
 table tbody img {
   width: 100px;
   height: 100px;
+  border-radius: 20px;
 }
+
 
 
 
