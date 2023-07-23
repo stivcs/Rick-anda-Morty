@@ -68,6 +68,8 @@ table tbody img {
   width: 100px;
   height: 100px;
   border-radius: 20px;
+  border: #ffffff 1.7px solid;
+  box-shadow: #bc2dff 0px 0px 10px;
 }
 
 
